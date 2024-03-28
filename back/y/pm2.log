@@ -1,0 +1,36 @@
+2024-03-25T18:20:02: PM2 log: ===============================================================================
+2024-03-25T18:20:02: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-03-25T18:20:02: PM2 log: Time                 : Mon Mar 25 2024 18:20:02 GMT+0100 (heure normale d’Europe centrale)
+2024-03-25T18:20:02: PM2 log: PM2 version          : 5.3.1
+2024-03-25T18:20:02: PM2 log: Node.js version      : 20.5.1
+2024-03-25T18:20:02: PM2 log: Current arch         : x64
+2024-03-25T18:20:02: PM2 log: PM2 home             : y
+2024-03-25T18:20:02: PM2 log: PM2 PID file         : C:\Users\ikrar\Desktop\portfolio\frontend\site\5_kanap\back\y\pm2.pid
+2024-03-25T18:20:02: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2024-03-25T18:20:02: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2024-03-25T18:20:02: PM2 log: Application log path : C:\Users\ikrar\Desktop\portfolio\frontend\site\5_kanap\back\y\logs
+2024-03-25T18:20:02: PM2 log: Worker Interval      : 30000
+2024-03-25T18:20:02: PM2 log: Process dump file    : C:\Users\ikrar\Desktop\portfolio\frontend\site\5_kanap\back\y\dump.pm2
+2024-03-25T18:20:02: PM2 log: Concurrent actions   : 2
+2024-03-25T18:20:02: PM2 log: SIGTERM timeout      : 1600
+2024-03-25T18:20:02: PM2 log: ===============================================================================
+2024-03-25T18:20:02: PM2 log: App [kanap-backend:0] starting in -fork mode-
+2024-03-25T18:20:02: PM2 log: App [kanap-backend:0] online
+2024-03-28T05:26:50: PM2 log: ===============================================================================
+2024-03-28T05:26:50: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-03-28T05:26:50: PM2 log: Time                 : Thu Mar 28 2024 05:26:50 GMT+0100 (heure normale d’Europe centrale)
+2024-03-28T05:26:50: PM2 log: PM2 version          : 5.3.1
+2024-03-28T05:26:50: PM2 log: Node.js version      : 20.5.1
+2024-03-28T05:26:50: PM2 log: Current arch         : x64
+2024-03-28T05:26:50: PM2 log: PM2 home             : y
+2024-03-28T05:26:50: PM2 log: PM2 PID file         : C:\Users\ikrar\Desktop\portfolio\5_kanap\back\y\pm2.pid
+2024-03-28T05:26:50: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2024-03-28T05:26:50: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2024-03-28T05:26:50: PM2 log: Application log path : C:\Users\ikrar\Desktop\portfolio\5_kanap\back\y\logs
+2024-03-28T05:26:50: PM2 log: Worker Interval      : 30000
+2024-03-28T05:26:50: PM2 log: Process dump file    : C:\Users\ikrar\Desktop\portfolio\5_kanap\back\y\dump.pm2
+2024-03-28T05:26:50: PM2 log: Concurrent actions   : 2
+2024-03-28T05:26:50: PM2 log: SIGTERM timeout      : 1600
+2024-03-28T05:26:50: PM2 log: ===============================================================================
+2024-03-28T05:26:50: PM2 log: App [kanap-backend:0] starting in -fork mode-
+2024-03-28T05:26:50: PM2 log: App [kanap-backend:0] online
